@@ -26,22 +26,15 @@ The following Power Bi feature were incorporated
 ### Visualization:
 
 
+Structured as a **5-page interactive report**, the Flowpal Sales Performance Dashboard guides users from high-level insights on **Sales Overview**, **Product Performance**, **Customer Behavior**, and **Region Distribution** all the way to detailed findings in the **Conclusion page**.
+
 <div align="center">
   <img src="https://github.com/David-TheAnalyst/Flowpal-Sales-Performance-Dashboard/blob/main/Flow1.png" alt="Flowpal Sales Dashboard Additional View" width="700" height="auto">
 </div>
 
    *A glimpse of the **Sales Overview** page, showcasing key performance indicators and revenue trends over time.*
 
-
-The Flowpal Sales Performance Dashboard is structured as a **5-page interactive report**, guiding through a progressive journey from high-level overview to granular details:
-
-* **Sales Overview:** Provides an immediate pulse on overall performance, trends, and critical anomalies.
-* **Product Performance:** Deep dives into individual product line contributions and opportunities.
-* **Customer Behavior:** Illuminates the profiles and impact of top-performing customers and channels.
-* **Region Distribution:** Maps out geographical strengths and areas for expansion.
-* **Conclusion:** Synthesizes all findings into actionable recommendations.
-
-
+You can interact with the live visualization [Here](https://drive.google.com/file/d/1vww5alsZjdMF5Gh1QyIS1QHuGa2uUQgN/view?usp=drive_link)
 
 ### **Analysis:**
 
@@ -62,6 +55,10 @@ The Flowpal Sales Performance Dashboard is structured as a **5-page interactive 
 </div>
 
 * The **USA** was confirmed as the largest market, complemented by strong performances from Spain, UK, Sweden, and Switzerland, underscoring concentrated areas for strategic expansion.
+<div align="center">
+  <img src="https://github.com/David-TheAnalyst/Flowpal-Sales-Performance-Dashboard/blob/main/Flow4.png" alt="Flowpal Sales Dashboard Overview" width="700" height="auto">
+</div>
+
 * A crucial insight across all dimensions was the **disproportionate revenue contribution from Medium-sized deals**, highlighting an optimization opportunity for sales and marketing efforts.
 
 
@@ -75,12 +72,9 @@ Based on these insights, It is ideal for the stakeholders to:
 * Implement a process to investigate sudden sales drops (e.g., Dec 2004) and develop agile prevention strategies.
 
 
-### **View the Interactive Dashboard:**
-
-[**Link to your Power BI Published Report / Tableau Public / Portfolio Website with embedded dashboard**]
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me on Socials:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/david ojo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david ojo" height="30" width="40" /></a>
 <a href="https://twitter.com/david_ojo_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="david_ojo_1" height="30" width="40" /></a>
