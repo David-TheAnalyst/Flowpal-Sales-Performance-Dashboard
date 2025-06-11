@@ -1,4 +1,7 @@
 # Flowpal-Sales-Performance-Dashboard
+<div align="center">
+  <img src="https://github.com/David-TheAnalyst/Flowpal-Sales-Performance-Dashboard/blob/main/FLowSales%20Backgroud%20(2).png" alt="Flowpal Sales Dashboard Additional View" width="1000" height="auto">
+</div>
 
 ### Introduction:
 
@@ -29,12 +32,12 @@ The following Power Bi feature were incorporated
 Structured as a **5-page interactive report**, the Flowpal Sales Performance Dashboard guides users from high-level insights on **Sales Overview**, **Product Performance**, **Customer Behavior**, and **Region Distribution** all the way to detailed findings in the **Conclusion page**.
 
 <div align="center">
-  <img src="https://github.com/David-TheAnalyst/Flowpal-Sales-Performance-Dashboard/blob/main/Flow1.png" alt="Flowpal Sales Dashboard Additional View" width="700" height="auto">
+  <img src="https://github.com/David-TheAnalyst/Flowpal-Sales-Performance-Dashboard/blob/main/Flow1.png" alt="Flowpal Sales Dashboard Additional View" width="600" height="auto">
 </div>
 
    *A glimpse of the **Sales Overview** page, showcasing key performance indicators and revenue trends over time.*
 
-You can interact with the live visualization [Here](https://drive.google.com/file/d/1vww5alsZjdMF5Gh1QyIS1QHuGa2uUQgN/view?usp=drive_link)
+You can interact with the live visualization [Here](https://github.com/David-TheAnalyst/Flowpal-Sales-Performance-Dashboard/blob/main/Flowpal-Sales-Performamce-Dashboard.pbix)
 
 ### **Analysis:**
 
@@ -44,19 +47,19 @@ You can interact with the live visualization [Here](https://drive.google.com/fil
 * Classic Cars emerged as the undisputed flagship, contributing $3.92 Million in sales from 34K units. This dominance highlights its market appeal. In stark contrast, the Train product's mere $226K in sales and 2,712 units revealed it as a significant drag on overall performance, necessitating a targeted improvement strategy.
 
 <div align="center">
-  <img src="https://github.com/David-TheAnalyst/Flowpal-Sales-Performance-Dashboard/blob/main/Flow2.png" alt="Flowpal Sales Dashboard Additional View" width="700" height="auto">
+  <img src="https://github.com/David-TheAnalyst/Flowpal-Sales-Performance-Dashboard/blob/main/Flow2.png" alt="Flowpal Sales Dashboard Additional View" width="600" height="auto">
 </div>
 
   
 * Analysis of customer behavior clearly identified the **Euro Shopping Channel** as a pivotal sales driver, alongside specific loyal customers like Mini Gift Distributors Ltd and Australian Collectors Co., indicating key relationships to nurture.
 
 <div align="center">
-  <img src="https://github.com/David-TheAnalyst/Flowpal-Sales-Performance-Dashboard/blob/main/FLow3.png" alt="Flowpal Sales Dashboard Overview" width="700" height="auto">
+  <img src="https://github.com/David-TheAnalyst/Flowpal-Sales-Performance-Dashboard/blob/main/FLow3.png" alt="Flowpal Sales Dashboard Overview" width="600" height="auto">
 </div>
 
 * The **USA** was confirmed as the largest market, complemented by strong performances from Spain, UK, Sweden, and Switzerland, underscoring concentrated areas for strategic expansion.
 <div align="center">
-  <img src="https://github.com/David-TheAnalyst/Flowpal-Sales-Performance-Dashboard/blob/main/Flow4.png" alt="Flowpal Sales Dashboard Overview" width="700" height="auto">
+  <img src="https://github.com/David-TheAnalyst/Flowpal-Sales-Performance-Dashboard/blob/main/Flow4.png" alt="Flowpal Sales Dashboard Overview" width="600" height="auto">
 </div>
 
 * A crucial insight across all dimensions was the **disproportionate revenue contribution from Medium-sized deals**, highlighting an optimization opportunity for sales and marketing efforts.
