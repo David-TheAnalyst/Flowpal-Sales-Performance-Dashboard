@@ -7,7 +7,9 @@
 
 In today's fast-paced business landscape, companies are often awash in data, yet paradoxically, they can starve for actionable intelligence. The true challenge isn't collecting sales figures; it's transforming those raw transactions into a transparent, living blueprint that reveals *why* sales are surging, *where* opportunities are being missed, and *how* to proactively pivot for sustained growth. 
 
-This project addresses precisely that critical gap for Flowpal – turning years of complex sales data into a crystal-clear, interactive narrative designed to illuminate hidden patterns and empower strategic decision-making. My objective was to move beyond historical reporting, delivering not just what happened, but actionable insights into sales trends, product performance, customer behavior, and regional dynamics to propel Flowpal towards its annual objectives.
+This project addresses precisely that critical gap for Flowpal – turning years of complex sales data into a crystal-clear, interactive narrative designed to illuminate hidden patterns and empower strategic decision-making. 
+
+My objective was to move beyond historical reporting, delivering not just what happened, but actionable insights into sales trends, product performance, customer behavior, and regional dynamics to propel Flowpal towards its annual objectives.
 
 ### Key Metrics at a Glance (Jan 2003 – May 2005):
 
@@ -74,7 +76,9 @@ Based on these insights, It is ideal for the stakeholders to:
 * Develop targeted campaigns for high-contributing Medium-sized deals.
 * Implement a process to investigate sudden sales drops (e.g., Dec 2004) and develop agile prevention strategies.
 
+## Source of Data
 
+This analysis was conducted using a simulated IBM Employee Attrition Dataset from [Kaggle]()
 
 
 <h3 align="left">Connect with me on Socials:</h3>
@@ -84,3 +88,6 @@ Based on these insights, It is ideal for the stakeholders to:
 <a href="https://medium.com/@davidojo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@davidojo" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/davidojo-j3v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="davidojo-j3v" height="30" width="40" /></a>
 </p>
+
+
+Thanks for stopping by!
